@@ -1,44 +1,11 @@
-# uMario_Jakowski
-uMario C++/SDL2 Game by Łukasz Jakowski
+![alt text](https://i.ibb.co/2NzJ835/2019082316312000-656-BE34-E55-C9033-ADE0-F9-DE563-FAE03-C.jpg)
+![alt text](https://i.ibb.co/4fcS6Qz/2019082316312900-656-BE34-E55-C9033-ADE0-F9-DE563-FAE03-C.jpg)
 
-Author: Łukasz Jakowski
+# MarioBrosNX
+MarioBrosNX C++/SDL2, Created by Łukasz Jakowski 2014, Ported to the Nintendo Switch By Krank/KuranKu 2019
 
-WWW: http://lukaszjakowski.pl
-Email: jakowskidev@gmail.com
+# Disclaimer:
+All ingame images and sound belong to its authors and none other, the right for mario bros title belongs to nintendo. 
+this game crated for fun and love of the community
 
-EXE and DLL - Download: http://lukaszjakowski.pl/DL/uMario.zip
-
-YouTube video: https://www.youtube.com/watch?v=jya5He7KFsE
-
-
-It is my first game made in C++.
-
-Visual Studio 2012
-SDL Tutorials which I have used:
-http://lazyfoo.net/tutorials/SDL/index.php
-
-
-My Google Play account: https://play.google.com/store/apps/dev?id=4635849298843013993
-
-
-## Build Pre-requisites
-
-FreeBSD:
-
-    $ pkg install cmake sdl2 sdl2_image sdl2_mixer
-
-OS X (brew):
-
-    $ brew install cmake sdl2 sdl2_image sdl2_mixer
-
-## Building and running
-
-    $ make build run
-
-    # or
-
-    $ mkdir build
-    $ cd build
-    $ cmake ..
-    $ make
-    $ ./uMario
+HAVE FUN MARIO!!!
