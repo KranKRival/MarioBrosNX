@@ -2,10 +2,10 @@
   "title": "MarioBrosNX",
   "author": "KranK/Kuranku",
   "category": "game",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "url": "https://github.com/KranKRival/MarioBrosNX",
   "license": "GPLv2",
-  "description": "A clone of nes super mario bros for the nintendo switch created in C++ and SDL2 ",
-  "details": "i have always wanted to port a game to the nintendo switch , so thas what i did :P\\n\\nmy 1st game port for the nintendo switch , actualy its my 1st game port ever \\n\\nHave Fun Mario",
-  "changelog": "Release v 1.3.0"
+  "description": "A clone of nes super mario bros for the nintendo switch created in C++ and SDL2",
+  "details": "i have always wanted to port a game to the nintendo switch , so thas what i did :P\\\\nmy 1st game port for the nintendo switch , actualy its my 1st game port ever \\nHave Fun Mario",
+  "changelog": "# Version 1.3.1\\n1.Fixed small typo on loading screen \\n2.Reduced game size by 60\\n3.moved to png instead of bitmaps \\n4.Improved game stability "
 }
