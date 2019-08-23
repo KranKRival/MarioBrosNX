@@ -6,6 +6,6 @@ MarioBrosNX C++/SDL2, Created by Łukasz Jakowski 2014, Ported to the Nintendo S
 
 # Disclaimer:
 All ingame images and sound belong to its authors and none other, the right for mario bros title belongs to nintendo. 
-this game crated for fun and love of the community
+this game created for fun and love of the community
 
 HAVE FUN MARIO!!!
